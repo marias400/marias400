@@ -10,8 +10,8 @@
 
 #### What I'm learning
 
-- Theoretical and experimental physics.
 - Full stack development.
+- Theoretical and experimental physics.
 
 
 #### I'm open to
